@@ -1,0 +1,44 @@
+body {
+	color: #B00000;
+}
+
+.outer-shell {
+	width: 700px;
+	height: 350px;
+	background-color: #484848;
+	border-radius: 30px;
+	margin:auto;
+	position: relative;
+}
+
+.inner-shell {
+	background-color: #000;
+	width: 75%;
+	height: 215px;
+	border-radius: 20px;
+	position: absolute;
+	top: 20%;
+	left:13%;
+}
+
+/*.auto-labels {
+
+}*/
+
+.clock-screen {
+	background-color: #600000;
+	border-radius: 20px;
+	width: 430px;
+	height: 105px;
+	position: absolute;
+	top: 29%;
+	left: 20%;
+	opacity: .9;
+}
+
+p {
+	margin-bottom: 0px;
+	color: #fff;
+	word-spacing: 4px;
+}
+
