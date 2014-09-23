@@ -44,8 +44,12 @@ $(document).on('ready', function() {
   	});
   frequencies.append(bottomFrequencies);
 
-  var clockTime = function (){
-  	increment 
-  });
+  // var clockTime = function (){
+  // 	increment 
+  // });
+
+  var clockTime = function(time) {
+    
+  }
 
 });
