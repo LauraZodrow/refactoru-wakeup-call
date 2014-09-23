@@ -14,8 +14,9 @@ $(document).on('ready', function() {
 
   var labels = $('<p>PM</p><p>AUTO</p>').css({
   	marginTop: '45px',
-  	marginLeft: '2px',
-  	fontWeight: '100'
+  	marginLeft: '4px',
+  	fontWeight: '100',
+  	fontSize: '14px'
   	});
   innerShell.append(labels);
 
@@ -42,4 +43,9 @@ $(document).on('ready', function() {
   	wordSpacing: '15px'
   	});
   frequencies.append(bottomFrequencies);
+
+  var clockTime = function (){
+  	increment 
+  });
+
 });
